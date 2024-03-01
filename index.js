@@ -38,3 +38,7 @@ class hero {
 //Instanciando um novo objeto a partir da classe hero
 const myHero = new hero('Daniel', 46, 'ninja');
 myHero.atacar();
+
+//Instanciando um novo objeto a partir da classe hero
+const myHero2 = new hero('Daniel', 46, 'ninja');
+myHero2.atacar();
